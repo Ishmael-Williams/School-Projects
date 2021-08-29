@@ -1,2 +1,2 @@
 # School-Projects
-School projects I personally made from scratch.
+Larger school projects containing only my code.
