@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\half-\OneDrive\Desktop\4306Project\4306Project\main.cpp(63,20): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+C:\Users\half-\OneDrive\Desktop\4306Project\4306Project\main.cpp(242,32): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\half-\OneDrive\Desktop\4306Project\4306Project\main.cpp(243,28): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  4306Project.vcxproj -> C:\Users\half-\OneDrive\Desktop\4306Project\Debug\4306Project.exe

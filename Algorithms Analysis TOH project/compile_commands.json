@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project\\main.cpp",
+  "directory": "C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project",
+  "command": "clang  -c C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project\\main.cpp -o C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project\\main.cpp.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project\\TOH.cpp",
+  "directory": "C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project",
+  "command": "clang  -c C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project\\TOH.cpp -o C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project\\TOH.cpp.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project\\TOH.h",
+  "directory": "C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project",
+  "command": "clang  -c C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project\\TOH.h -o C:\\Users\\half-\\OneDrive\\Desktop\\4306Project\\TOH_Project\\TOH.h.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }]

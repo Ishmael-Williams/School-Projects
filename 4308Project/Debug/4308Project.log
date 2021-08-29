@@ -1,0 +1,4 @@
+﻿  Interpreter.cpp
+C:\Users\half-\OneDrive - Kennesaw State University\Semesters\FALL 20\4308\Project\4308Project\Interpreter.cpp(45,1): warning C4005: 'EOF': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(37): message : see previous definition of 'EOF'
+  4308Project.vcxproj -> C:\Users\half-\OneDrive - Kennesaw State University\Semesters\FALL 20\4308\Project\4308Project\Debug\4308Project.exe
